@@ -1670,8 +1670,21 @@ def login_quotes_html():
 
 
 if not st.session_state.get("authed"):
+    # Header block (logo, title, strapline) sits in the 1-2-1 middle column but
+    # Streamlit renders every block left-aligned — centre those first three
+    # children so the lockup lines up on the page axis with the doctrine slogan
+    # rotating below it. Scoped to the login card only (gone once authed).
     st.markdown(
-        "<style>#MainMenu {visibility: hidden;} footer {visibility: hidden;}</style>",
+        """
+<style>
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+div[data-testid="stColumn"]:has(h2) > div[data-testid="stVerticalBlock"]
+    > div[data-testid="stElementContainer"]:nth-child(-n+3) { text-align: center; }
+div[data-testid="stColumn"]:has(h2) [data-testid="stFullScreenFrame"] > div
+    { margin-left: auto; margin-right: auto; }
+</style>
+""",
         unsafe_allow_html=True,
     )
     st.markdown("")
