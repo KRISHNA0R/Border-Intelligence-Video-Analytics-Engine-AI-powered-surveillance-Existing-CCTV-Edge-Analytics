@@ -315,6 +315,75 @@ Plus a headless Streamlit AppTest smoke suite (login gate, SOS, offline queue, a
 
 ---
 
+## 👥 Team Details &amp; Contributions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Team-6%20engineers-111827?logo=git&amp;logoColor=white" alt="Team of 6 engineers" />
+  <img src="https://img.shields.io/badge/Modules-owned%20end--to--end-16A34A?logo=gitlab&amp;logoColor=white" alt="Modules owned end to end" />
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2026-0D3B66" alt="Smart India Hackathon 2026" />
+</p>
+
+<p align="center">
+  <b>Six engineers · one codebase · zero hand-offs.</b><br/>
+  <sub>Every module of BorderEye is owned end-to-end by a named teammate — from edge inference at a remote post to the command dashboard at HQ.</sub>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://www.linkedin.com/in/krishnarsoftwareengineer00000/"><img src="https://ui-avatars.com/api/?name=Krishna+R&amp;background=111827&amp;color=06B6D4&amp;size=128&amp;bold=true" width="88" height="88" alt="Krishna R" /></a><br/>
+      <sub><b><a href="https://www.linkedin.com/in/krishnarsoftwareengineer00000/">Krishna R</a></b></sub><br/>
+      <sub>🏆 <b>Team Lead</b> · Full-Stack &amp; Edge AI</sub><br/>
+      <sub>Architecture · dashboard · edge pipeline · ledger · API · reports</sub><br/>
+      <a href="https://www.linkedin.com/in/krishnarsoftwareengineer00000/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&amp;logoColor=white" alt="Krishna R on LinkedIn" /></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://www.linkedin.com/in/siddhanth-singh-189340248/"><img src="https://ui-avatars.com/api/?name=Siddhanth+Singh&amp;background=111827&amp;color=06B6D4&amp;size=128&amp;bold=true" width="88" height="88" alt="Siddhanth Singh" /></a><br/>
+      <sub><b><a href="https://www.linkedin.com/in/siddhanth-singh-189340248/">Siddhanth Singh</a></b></sub><br/>
+      <sub>🤖 <b>AI/ML Engineer</b> · Detection &amp; Tracking</sub><br/>
+      <sub>YOLOv8 fine-tuning on IDD · ByteTrack IDs · dataset tooling</sub><br/>
+      <a href="https://www.linkedin.com/in/siddhanth-singh-189340248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&amp;logoColor=white" alt="Siddhanth Singh on LinkedIn" /></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://www.linkedin.com/in/sreemoyee-dutta-444103391/"><img src="https://ui-avatars.com/api/?name=Sreemoyee+Dutta&amp;background=111827&amp;color=06B6D4&amp;size=128&amp;bold=true" width="88" height="88" alt="Sreemoyee Dutta" /></a><br/>
+      <sub><b><a href="https://www.linkedin.com/in/sreemoyee-dutta-444103391/">Sreemoyee Dutta</a></b></sub><br/>
+      <sub>👁️ <b>Computer Vision Engineer</b> · Analytics</sub><br/>
+      <sub>ANPR plate consensus · face detection · behaviour analytics &amp; charts</sub><br/>
+      <a href="https://www.linkedin.com/in/sreemoyee-dutta-444103391/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&amp;logoColor=white" alt="Sreemoyee Dutta on LinkedIn" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://www.linkedin.com/in/paban-saha-4125003b4/"><img src="https://ui-avatars.com/api/?name=Paban+Saha&amp;background=111827&amp;color=06B6D4&amp;size=128&amp;bold=true" width="88" height="88" alt="Paban Saha" /></a><br/>
+      <sub><b><a href="https://www.linkedin.com/in/paban-saha-4125003b4/">Paban Saha</a></b></sub><br/>
+      <sub>⚙️ <b>Backend Engineer</b> · API &amp; Integrity</sub><br/>
+      <sub>FastAPI REST + WebSocket · hash-chain verification · integration contract</sub><br/>
+      <a href="https://www.linkedin.com/in/paban-saha-4125003b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&amp;logoColor=white" alt="Paban Saha on LinkedIn" /></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://www.linkedin.com/in/somdip-das-987765365/"><img src="https://ui-avatars.com/api/?name=Somdip+Das&amp;background=111827&amp;color=06B6D4&amp;size=128&amp;bold=true" width="88" height="88" alt="Somdip Das" /></a><br/>
+      <sub><b><a href="https://www.linkedin.com/in/somdip-das-987765365/">Somdip Das</a></b></sub><br/>
+      <sub>🎨 <b>Frontend Engineer</b> · UX &amp; Operator Modes</sub><br/>
+      <sub>Tripwire canvas · dark &amp; tactical themes · camera wall · shortcuts</sub><br/>
+      <a href="https://www.linkedin.com/in/somdip-das-987765365/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&amp;logoColor=white" alt="Somdip Das on LinkedIn" /></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://www.linkedin.com/in/ankit-das-9a473b398/"><img src="https://ui-avatars.com/api/?name=Ankit+Das&amp;background=111827&amp;color=06B6D4&amp;size=128&amp;bold=true" width="88" height="88" alt="Ankit Das" /></a><br/>
+      <sub><b><a href="https://www.linkedin.com/in/ankit-das-9a473b398/">Ankit Das</a></b></sub><br/>
+      <sub>🚀 <b>DevOps &amp; QA</b> · Deployment &amp; Testing</sub><br/>
+      <sub>Docker packaging · 167-test suite · CI hygiene · cloud deployment</sub><br/>
+      <a href="https://www.linkedin.com/in/ankit-das-9a473b398/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&amp;logoColor=white" alt="Ankit Das on LinkedIn" /></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub><b>Team BorderEye</b> — each member owns their module end-to-end: code, tests, docs and demo.<br/>
+  Questions, feedback or collaboration? Reach out on LinkedIn.</sub>
+</p>
+
+---
+
 ## 🎤 Pitch Materials
 
 Presentation deck, demo script, recording guide, judging rubric answers and the full package live in [`pitch/`](pitch/).
