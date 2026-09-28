@@ -28,6 +28,28 @@
 
 ---
 
+## ▶️ Product Explanation Video
+
+<p align="center">
+  <a href="https://youtu.be/RPTl-EkL2XM">
+    <img src="https://img.youtube.com/vi/RPTl-EkL2XM/maxresdefault.jpg" width="760" alt="BorderEye — AI-Powered Border Surveillance: full working demo" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/RPTl-EkL2XM"><img src="https://img.shields.io/badge/▶%20Watch%20on-YouTube-FF0000?logo=youtube&amp;logoColor=white" alt="Watch on YouTube" /></a>
+  <a href="https://www.youtube.com/@devkrishnarai069"><img src="https://img.shields.io/badge/Channel-dev.krishnar-111827?logo=youtube&amp;logoColor=white" alt="YouTube channel: dev.krishnar" /></a>
+  <img src="https://img.shields.io/badge/Covers-YOLOv8%20%C2%B7%20ByteTrack%20%C2%B7%20ANPR-06B6D4?logoColor=white" alt="Covers YOLOv8, ByteTrack and ANPR" />
+</p>
+
+<p align="center">
+  <b>BorderEye: AI-Powered Border Surveillance | Full Working Demo | YOLOv8 + ByteTrack + ANPR | SIH26187</b><br/>
+  <sub>End-to-end walkthrough — edge inference, live tracking, ANPR, the alert console, tamper-evident ledger and reporting.<br/>
+  Click the thumbnail to play on YouTube.</sub>
+</p>
+
+---
+
 ## 📌 What It Does
 
 BorderEye is a **software layer over existing CCTV cameras** at border outposts. It watches every frame with AI, raises alerts the instant something happens, and proves every alert is genuine with a tamper-evident ledger. **No new cameras. No cloud dependency. No GPU needed.**
