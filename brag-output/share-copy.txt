@@ -1,2 +1,0 @@
-BorderEye — AI border surveillance over existing CCTV. Edge-first, tamper-evident, CPU-only. No new cameras, no cloud, no GPU. Smart India Hackathon 2026 · SIH26187.
-Watch the full demo: youtu.be/RPTl-EkL2XM
